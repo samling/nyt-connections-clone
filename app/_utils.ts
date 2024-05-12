@@ -28,7 +28,7 @@ export const getWordColor = (category: 1 | 2 | 3 | 4): string => {
 export const getPerfection = (mistakesRemaining: number) => {
   switch (mistakesRemaining) {
     case 4:
-      return "Perfect!";
+      return "Happy Mother's Day!";
     case 3:
       return "Nice!";
     case 2:

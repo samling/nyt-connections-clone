@@ -2,23 +2,23 @@ import { Category } from "./_types";
 
 export const categories: Category[] = [
   {
-    category: 'ENCOURAGE, WITH "ON"',
-    items: ["EGG", "GOAD", "SPUR", "URGE"],
+    category: 'NICKANMES FOR PATTY',
+    items: ["POOPOO", "PATRICIA", "CIRCLE", "WHITETOE"],
     level: 1,
   },
   {
-    category: "SPHERICAL FOODS",
-    items: ["JAWBREAKER", "MEATBALL", "MOZZARELLA", "ORANGE"],
+    category: "ALLI'S FAVORITE THINGS",
+    items: ["DIAMOND", "TRAVEL", "FARM ANIMAL", "OLD FASHIONED"],
     level: 2,
   },
   {
-    category: "GROCERY STORE AISLES",
-    items: ["DAIRY", "FROZEN", "PRODUCE", "SNACK"],
+    category: "LAST NAMES OF ACTORS IN FAVORITE SHOWS/MOVIES",
+    items: ["FRASER", "BING", "SCOTT", "KNIGHTLEY"],
     level: 3,
   },
   {
-    category: "GO ___",
-    items: ["BANANAS", "FIGURE", "FISH", "STEADY"],
+    category: "TYPES OF ANIMALS ON FUTURE FARM",
+    items: ["BABY DOLL", "HEREFORD", "OREO", "PLYMOUTH ROCK"],
     level: 4,
   },
 ];
